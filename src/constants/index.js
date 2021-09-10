@@ -1,4 +1,6 @@
 
+export const BASE_URL = 'https://api.nasa.gov/planetary'
+export const API_KEY = 'b5l3XgTQ17UaK5wCyeRnsNBlVukYYJ78mAnOZVoB'
 
-export const BASE_URL = 'http://localhost:4000'
-export const API_KEY = '4UoZnHHQlr65jRk2BGYBKIzSJd7cCGnwCoajgBEI'
+
+/*'https://api.nasa.gov/planetary/apod?api_key=b5l3XgTQ17UaK5wCyeRnsNBlVukYYJ78mAnOZVoB'*/
