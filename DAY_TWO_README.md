@@ -3,7 +3,7 @@
 
 In this project you will refactor the styling you completed in the APOD app. You will style it using [Styled Components](https://github.com/LambdaSchool/nasa-photo-of-the-day.git), although you are welcome to _also_ use one or two [Reactstrap](https://reactstrap.github.io/) components if you wish.
 
-## Introduction
+## Introduction 
 
 - [x] This will be a continuation of the project you've already started.
 - [x] Our goal here is to apply advanced styling techniques in your React application.
